@@ -21,3 +21,4 @@ The project utilizes oil sample data from three distinct regions, along with kno
 - Matplotlib
 
 ## Conclusion
+In summary, the model has identified Region 1 as the optimal area for new oil well drilling based on profitability and risk analysis. Leveraging advanced predictive modeling and innovative methodologies, actionable insights are provided to guide strategic decision-making for OilyGiant Mining Company. This focused approach supports sustained growth and success in the oil exploration and production sector.
