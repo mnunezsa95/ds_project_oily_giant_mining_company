@@ -1,4 +1,4 @@
-# OilyGiant Mining Company Data Science Repository
+# OilyGiant Mining Company 
 
 ## Overview
 In today's dynamic and competitive oil industry, the strategic location and development of new oil wells are crucial for companies like OilyGiant Mining Company to maximize profitability and ensure sustainable operations. This repository presents a data science project focused on leveraging predictive modeling techniques to analyze oil well characteristics and estimate reserve volumes within different geographic regions. The goal is to identify promising locations for drilling new wells based on comprehensive data analysis and machine learning.
